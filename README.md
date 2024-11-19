@@ -1,4 +1,4 @@
-# BookNBye
+# BookNByte
 
 ## Overview
 This project focuses on developing a website for hotels, restaurants, or resorts, providing essential features like room bookings, menu displays, event planning, and customer feedback. It is designed to enhance user experience and streamline hospitality services through an intuitive and interactive platform.
