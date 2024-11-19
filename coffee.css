@@ -1,0 +1,61 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background-image: radial-gradient(rgb(221, 193, 176),rgb(209, 138, 62)); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    font-size: large; 
+  } 
+   
+  header { 
+    background-image: radial-gradient(rgb(234, 233, 233),rgba(226, 121, 51, 0.833)); 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+  } 
+   
+  section { 
+    padding: 20px; 
+     
+  } 
+   
+  h1, h2, h3 { 
+    margin: 0; 
+    color: rgb(57, 41, 12); 
+    font-family: 'Lobster', cursive; 
+  } 
+70 
+ 
+  p{ 
+    color: rgb(21, 21, 5); 
+    font-size: medium; 
+    font-family: 'Lobster', cursive; 
+  } 
+  .menu-item { 
+    margin-bottom: 20px; 
+    border-bottom: 1px solid #0f0e0d; 
+    padding-bottom: 10px; 
+  } 
+  .price { 
+    float: right; 
+    padding-left: 100px; 
+    color: rgb(54, 7, 7); 
+    font-size: 30px; 
+    padding-top: 5px; 
+  } 
+  .menu-column { 
+    display: inline-block; 
+    vertical-align: top; 
+    width: 50%; 
+    padding: 0 10px; 
+    box-sizing: border-box; 
+  } 
+  img{ 
+    width: 700px; 
+    height: 950px; 
+    float: right; 
+    padding-right: 10px; 
+    padding-top: 10px; 
+71 
+ 
+    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%); 
+  }
